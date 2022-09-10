@@ -21,5 +21,10 @@ namespace MultApps.Client.Windows.Funcionalidades
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
